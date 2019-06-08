@@ -1,20 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello",
-      "profileId": 1
-    },
-    {
-      "id": 2,
-      "title": "hello again",
-      "profileId": 1
-    }
-  ],
   "profiles": [
-    {
-      "id": 1,
-      "name": "hossam"
-    }
+    { "id": 1, "name": "hossam" }
+  ],
+  "posts": [
+    { "id": 1, "title": "hello", "profileId": 1 },
+    { "id": 2, "title": "hello again", "profileId": 1 }
   ]
 }
