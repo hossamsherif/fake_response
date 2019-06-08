@@ -11,8 +11,10 @@
       "profileId": 1
     }
   ],
-  "profile": {
-    "id": 1,
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "id": 1,
+      "name": "hossam"
+    }
+  ]
 }
